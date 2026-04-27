@@ -139,4 +139,4 @@ riverr-rag/
 ## Author
 
 **Mukeshwaran A** — Full Stack AI Engineer  
-[LinkedIn](https://www.linkedin.com/in/mukeshwaran-a-2236112a3) | [GitHub](https://github.com/mukeshwaran)
+[LinkedIn](https://www.linkedin.com/in/mukeshwaran-a-2236112a3) | [GitHub](https://github.com/MukeshW11)
